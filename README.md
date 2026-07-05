@@ -95,8 +95,6 @@ The objective is simple: collect all crystals, then collect the Pure Crystal. Th
 
 * Unity
 * C#
-* Unity Physics
-* PC platform
 
 ## Project Status
 
